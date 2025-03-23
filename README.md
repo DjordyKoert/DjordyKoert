@@ -3,8 +3,9 @@
 
 
 I'm Djordy, a HBO Bachelor ICT graduate with a passion for programming and open-source projects.
+Currently, I'm employed as a Software Engineer at [YourSurprise](https://www.linkedin.com/company/yoursurprise-com).
 
-
+## About me
 I am the maintainer of [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle), a widely-used PHP Symfony bundle for generating API documentation.
 
 I began maintaining this project in January 2024, and since then I've been dedicated to improving it in my free time.
