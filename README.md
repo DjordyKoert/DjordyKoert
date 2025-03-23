@@ -9,7 +9,9 @@ I am the maintainer of [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiD
 I began maintaining this project in January 2024, and since then I've been dedicated to improving it in my free time.
 
 <p align='center'>
-    [![NelmioApiDocBundle readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nelmio&repo=NelmioApiDocBundle&theme=holi)](https://github.com/nelmio/NelmioApiDocBundle)
+    <a href="https://github.com/nelmio/NelmioApiDocBundle">
+        <img alt="NelmioApiDocBundle readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=nelmio&repo=NelmioApiDocBundle&theme=holi" />
+    </a>
 </p>
 
 
