@@ -17,7 +17,7 @@ I began maintaining this project in January 2024, and since then I've been dedic
 </p>
 
 
-If you enjoy my work and want to support my contributions, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/DjordyKoert)
+If you enjoy my work and want to support my contributions, please consider [supporting my work with your sponsoring](https://github.com/sponsors/DjordyKoert) 💕
 
 <p align='center'>
     <a href="https://github.com/sponsors/DjordyKoert">
