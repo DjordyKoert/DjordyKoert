@@ -6,6 +6,7 @@ I'm Djordy, a HBO Bachelor ICT graduate with a passion for programming and open-
 
 
 I am the maintainer of [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle), a widely-used PHP Symfony bundle for generating API documentation.
+
 I began maintaining this project in January 2024, and since then I've been dedicated to improving it in my free time.
 
 <p align='center'>
@@ -44,7 +45,7 @@ If you enjoy my work and want to support my contributions, [please consider supp
 - [docs(4.x): update references from `master` to `4.x`](https://github.com/nelmio/NelmioApiDocBundle/pull/2453) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [docs(4.38.0): update changelog](https://github.com/nelmio/NelmioApiDocBundle/pull/2452) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
