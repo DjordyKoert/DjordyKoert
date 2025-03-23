@@ -69,11 +69,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **5.0.7**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (3 days ago)
-- [pelican-dev/panel **v1.0.0-beta18**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (1 week ago)
-- [openapi-ts/openapi-typescript **swr-openapi@5.1.4**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 week ago)
-- [nelmio/NelmioApiDocBundle **v5.0.0**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.0) (2 weeks ago)
-- [symfony/symfony **v7.2.4**](https://github.com/symfony/symfony/releases/tag/v7.2.4) (3 weeks ago)
+- [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (3 days ago)
+- [pelican-dev/panel **(v1.0.0-beta18)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (1 week ago)
+- [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 week ago)
+- [nelmio/NelmioApiDocBundle **(v5.0.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.0) (2 weeks ago)
+- [symfony/symfony **(v7.2.4)**](https://github.com/symfony/symfony/releases/tag/v7.2.4) (3 weeks ago)
 
 ---
 
