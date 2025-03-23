@@ -55,5 +55,5 @@ If you enjoy my work and want to support my contributions, please consider [supp
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
