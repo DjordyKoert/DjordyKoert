@@ -74,6 +74,12 @@ I run a hobby server in my free time, where I host various services.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+{*Recent releases*}
+## 📦 My recent releases
+{{range recentReleases 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) [{{.TagName}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
