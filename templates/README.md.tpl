@@ -32,9 +32,8 @@ If you enjoy my work and want to support my contributions, [please consider supp
     <a href="https://github.com/sponsors/DjordyKoert">
         <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
     </a>
-
-    <a href="https://github.com/sponsors/DjordyKoert">
-        <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+    <a href="https://nl.linkedin.com/in/djordy-koert-0648881a2">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn" />
     </a>
 </p>
 
