@@ -76,7 +76,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 {{range recentReleases 8}}
-- [{{.Name}} **{{.LastRelease.TagName}}**]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
+- [{{.Name}} **({{.LastRelease.TagName}})**]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 ---
