@@ -41,6 +41,27 @@ If you enjoy my work and want to support my contributions, please consider [supp
     </a>
 </p>
 
+<details>
+    <summary>🌱 My hobby server</summary>
+
+<p align='center'>
+    <img src="https://img.shields.io/badge/TrueNAS_25.04.RC.1-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/4x_st8000vn004-IronWolf_8TB-5AC710?style=for-the-badge&logo=seagate&logoColor=white" />
+</p>
+
+I run a hobby server in my free time, where I host various services.
+
+- [Home Assistant](https://github.com/home-assistant/core)
+- [Cloudflared](https://github.com/cloudflare/cloudflared)
+- Various *arrs
+- [Jellyfin](https://jellyfin.org/)
+- [Jellyseerr](https://github.com/Fallenbagel/jellyseerr)
+- [Pelican panel & wings](https://pelican.dev/)
+
+</details>
+
 ---
 
 ## 🔭 Check out what I'm currently working on
