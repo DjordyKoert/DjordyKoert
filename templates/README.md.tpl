@@ -74,10 +74,9 @@ I run a hobby server in my free time, where I host various services.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-{*Recent releases*}
-## 📦 My recent releases
-{{range recentReleases 5}}
-- [{{.Name}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
+## 📦 My recent release contributions
+{{range recentReleases 8}}
+- [{{.Name}} **{{.LastRelease.TagName}}**]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 ---
