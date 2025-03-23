@@ -10,7 +10,7 @@ I began maintaining this project in January 2024, and since then I've been dedic
 
 <p align='center'>
     <a href="https://github.com/nelmio/NelmioApiDocBundle">
-        <img alt="NelmioApiDocBundle readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=nelmio&repo=NelmioApiDocBundle&theme=holi" />
+        <img alt="NelmioApiDocBundle readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=nelmio&repo=NelmioApiDocBundle&theme=holi&bg_color=00000000" />
     </a>
 </p>
 
@@ -44,7 +44,7 @@ If you enjoy my work and want to support my contributions, [please consider supp
 - [docs(4.x): update references from `master` to `4.x`](https://github.com/nelmio/NelmioApiDocBundle/pull/2453) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [docs(4.38.0): update changelog](https://github.com/nelmio/NelmioApiDocBundle/pull/2452) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
