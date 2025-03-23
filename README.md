@@ -67,6 +67,15 @@ I run a hobby server in my free time, where I host various services.
 - [docs(4.x): update references from `master` to `4.x`](https://github.com/nelmio/NelmioApiDocBundle/pull/2453) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [docs(4.38.0): update changelog](https://github.com/nelmio/NelmioApiDocBundle/pull/2452) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
+{*Recent releases*}
+## 📦 My recent releases
+
+- [zircote/swagger-php](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (3 days ago)
+- [pelican-dev/panel](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (1 week ago)
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 week ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.0) (2 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony/releases/tag/v7.2.4) (3 weeks ago)
+
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
