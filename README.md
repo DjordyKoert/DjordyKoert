@@ -55,7 +55,7 @@ I run a hobby server in my free time, where I host various services.
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (4 months ago)
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (9 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (11 months ago)
 
@@ -69,7 +69,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (3 days ago)
+- [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (4 days ago)
 - [pelican-dev/panel **(v1.0.0-beta18)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (1 week ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.0.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.0) (2 weeks ago)
