@@ -29,7 +29,7 @@ If you enjoy my work and want to support my contributions, please consider [supp
 </p>
 
 <details>
-    <summary>🌱 My hobby server</summary>
+    <summary>🌱 My home server</summary>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/TrueNAS_25.04.RC.1-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
