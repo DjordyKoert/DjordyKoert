@@ -53,7 +53,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (9 months ago)
@@ -61,11 +61,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(#10970): codecov branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (today)
+- [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [chore: symfony/phpunit-bridge version constraint &amp; dependabot grouping](https://github.com/nelmio/NelmioApiDocBundle/pull/2460) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [chore: dependabot for composer](https://github.com/nelmio/NelmioApiDocBundle/pull/2457) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [docs: merge 4.x in 5.x](https://github.com/nelmio/NelmioApiDocBundle/pull/2454) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [docs(4.x): update references from `master` to `4.x`](https://github.com/nelmio/NelmioApiDocBundle/pull/2453) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
