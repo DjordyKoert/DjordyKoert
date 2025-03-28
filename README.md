@@ -62,11 +62,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (2 days ago)
 - [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
-- [chore: symfony/phpunit-bridge version constraint &amp; dependabot grouping](https://github.com/nelmio/NelmioApiDocBundle/pull/2460) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
