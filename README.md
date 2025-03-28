@@ -53,7 +53,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [badges/shields](https://github.com/badges/shields) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
@@ -62,11 +62,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (2 days ago)
 - [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
 - [chore: symfony/phpunit-bridge version constraint &amp; dependabot grouping](https://github.com/nelmio/NelmioApiDocBundle/pull/2460) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [chore: dependabot for composer](https://github.com/nelmio/NelmioApiDocBundle/pull/2457) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
