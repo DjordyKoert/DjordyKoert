@@ -70,11 +70,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
+- [symfony/symfony **(v7.2.5)**](https://github.com/symfony/symfony/releases/tag/v7.2.5) (today)
 - [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (4 days ago)
 - [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (1 week ago)
 - [pelican-dev/panel **(v1.0.0-beta18)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (1 week ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (2 weeks ago)
-- [symfony/symfony **(v7.2.4)**](https://github.com/symfony/symfony/releases/tag/v7.2.4) (1 month ago)
 
 ---
 
