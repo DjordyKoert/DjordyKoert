@@ -53,8 +53,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [badges/shields](https://github.com/badges/shields) (4 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [badges/shields](https://github.com/badges/shields) (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (9 months ago)
@@ -62,16 +62,16 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (4 days ago)
-- [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
-- [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
+- [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (5 days ago)
+- [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.2.5)**](https://github.com/symfony/symfony/releases/tag/v7.2.5) (2 days ago)
-- [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (6 days ago)
+- [symfony/symfony **(v7.2.5)**](https://github.com/symfony/symfony/releases/tag/v7.2.5) (3 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (1 week ago)
 - [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (1 week ago)
 - [pelican-dev/panel **(v1.0.0-beta18)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (2 weeks ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (2 weeks ago)
