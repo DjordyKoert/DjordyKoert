@@ -58,7 +58,6 @@ I run a hobby server in my free time, where I host various services.
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (9 months ago)
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
@@ -72,7 +71,6 @@ I run a hobby server in my free time, where I host various services.
 
 - [symfony/symfony **(v7.2.5)**](https://github.com/symfony/symfony/releases/tag/v7.2.5) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (1 week ago)
-- [zircote/swagger-php **(5.0.7)**](https://github.com/zircote/swagger-php/releases/tag/5.0.7) (2 weeks ago)
 - [pelican-dev/panel **(v1.0.0-beta18)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta18) (3 weeks ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (3 weeks ago)
 
