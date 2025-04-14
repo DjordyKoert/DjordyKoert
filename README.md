@@ -55,7 +55,7 @@ I run a hobby server in my free time, where I host various services.
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (5 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (10 months ago)
 
@@ -65,13 +65,13 @@ I run a hobby server in my free time, where I host various services.
 - [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (2 weeks ago)
 - [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [ci: stale](https://github.com/nelmio/NelmioApiDocBundle/pull/2463) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [pelican-dev/panel **(v1.0.0-beta19)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta19) (6 days ago)
+- [pelican-dev/panel **(v1.0.0-beta19)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta19) (1 week ago)
 - [symfony/symfony **(v7.2.5)**](https://github.com/symfony/symfony/releases/tag/v7.2.5) (2 weeks ago)
-- [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (3 weeks ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 month ago)
 
 ---
