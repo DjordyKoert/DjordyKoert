@@ -53,7 +53,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (6 months ago)
@@ -61,7 +61,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [ci: increase stale close time](https://github.com/nelmio/NelmioApiDocBundle/pull/2476) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [ci: increase stale close time](https://github.com/nelmio/NelmioApiDocBundle/pull/2476) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (1 month ago)
@@ -69,10 +69,10 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.3.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (1 day ago)
+- [openapi-ts/openapi-typescript **(openapi-react-query@0.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-react-query%400.4.0) (1 day ago)
+- [symfony/symfony **(v7.3.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (2 days ago)
 - [pelican-dev/panel **(v1.0.0-beta19)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta19) (3 weeks ago)
 - [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (1 month ago)
-- [openapi-ts/openapi-typescript **(swr-openapi@5.1.4)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.1.4) (1 month ago)
 
 ---
 
