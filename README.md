@@ -69,8 +69,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [openapi-ts/openapi-typescript **(openapi-typescript@7.7.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.7.1) (3 days ago)
-- [symfony/symfony **(v7.3.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (6 days ago)
+- [openapi-ts/openapi-typescript **(openapi-typescript@7.7.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.7.1) (4 days ago)
+- [symfony/symfony **(v7.3.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (1 week ago)
 - [pelican-dev/panel **(v1.0.0-beta19)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta19) (1 month ago)
 - [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (1 month ago)
 
