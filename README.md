@@ -55,7 +55,7 @@ I run a hobby server in my free time, where I host various services.
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (6 months ago)
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) (11 months ago)
 
@@ -69,9 +69,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [openapi-ts/openapi-typescript **(openapi-fetch@0.14.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.0) (3 days ago)
-- [symfony/symfony **(v7.3.0-BETA2)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (3 days ago)
-- [pelican-dev/panel **(v1.0.0-beta21)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta21) (4 days ago)
+- [openapi-ts/openapi-typescript **(openapi-fetch@0.14.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.0) (4 days ago)
+- [symfony/symfony **(v7.3.0-BETA2)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (4 days ago)
+- [pelican-dev/panel **(v1.0.0-beta21)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta21) (5 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.0.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.0.1) (1 month ago)
 
 ---
