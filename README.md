@@ -61,11 +61,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore(#2484): remove ext-json](https://github.com/nelmio/NelmioApiDocBundle/pull/2488) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: increase stale close time](https://github.com/nelmio/NelmioApiDocBundle/pull/2476) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
