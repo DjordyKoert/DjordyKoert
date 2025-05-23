@@ -61,11 +61,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [chore(#2484): remove ext-json](https://github.com/nelmio/NelmioApiDocBundle/pull/2488) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: increase stale close time](https://github.com/nelmio/NelmioApiDocBundle/pull/2476) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(#2462): MapRequestPayload ](https://github.com/nelmio/NelmioApiDocBundle/pull/2467) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [ci(#2286): reproducer for method with &#34;add&#34; breaks documentation](https://github.com/nelmio/NelmioApiDocBundle/pull/2466) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(#10970): [codecov] branch badge](https://github.com/badges/shields/pull/10971) on [badges/shields](https://github.com/badges/shields) (1 month ago)
-- [docs: readme cleanup &amp; added &#34;Sponsored by&#34; section](https://github.com/nelmio/NelmioApiDocBundle/pull/2465) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
