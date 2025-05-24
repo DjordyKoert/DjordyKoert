@@ -61,11 +61,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(#2480): Tag ignored on subclasses when routes are inherited from abstract controller](https://github.com/nelmio/NelmioApiDocBundle/pull/2492) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [chore(#2484): remove ext-json](https://github.com/nelmio/NelmioApiDocBundle/pull/2488) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 
 ## 📦 My recent release contributions
 
