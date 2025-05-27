@@ -53,7 +53,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 - [badges/shields](https://github.com/badges/shields) (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (7 months ago)
@@ -61,16 +61,16 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [fix(#2480): Tag ignored on subclasses when routes are inherited from abstract controller](https://github.com/nelmio/NelmioApiDocBundle/pull/2492) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
-- [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [fix(#2480): Tag ignored on subclasses when routes are inherited from abstract controller](https://github.com/nelmio/NelmioApiDocBundle/pull/2492) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
+- [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.3.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (1 day ago)
-- [nelmio/NelmioApiDocBundle **(v5.3.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.3.0) (2 days ago)
+- [symfony/symfony **(v7.3.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (2 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.3.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.3.0) (3 days ago)
 - [openapi-ts/openapi-typescript **(openapi-fetch@0.14.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.0) (2 weeks ago)
 - [pelican-dev/panel **(v1.0.0-beta21)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta21) (2 weeks ago)
 
