@@ -69,7 +69,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.3.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (4 days ago)
+- [symfony/symfony **(v7.3.0)**](https://github.com/symfony/symfony/releases/tag/v7.3.0) (today)
 - [nelmio/NelmioApiDocBundle **(v5.3.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.3.0) (5 days ago)
 - [openapi-ts/openapi-typescript **(openapi-fetch@0.14.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.0) (2 weeks ago)
 - [pelican-dev/panel **(v1.0.0-beta21)**](https://github.com/pelican-dev/panel/releases/tag/v1.0.0-beta21) (2 weeks ago)
