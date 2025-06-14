@@ -33,6 +33,11 @@ I began maintaining this project in January 2024, and since then I've been dedic
 If you enjoy my work and want to support my contributions, please consider [supporting my work with your sponsoring](https://github.com/sponsors/DjordyKoert) 💕
 
 <p align='center'>
+    <a href="https://www.buymeacoffee.com/djordykoert" align='center'>
+        <img alt="Buy Me A Coffee" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=djordykoert&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+    </a>
+</p>
+<p align='center'>
     <a href="https://github.com/sponsors/DjordyKoert">
         <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
     </a>
