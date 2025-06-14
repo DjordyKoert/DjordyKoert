@@ -32,8 +32,6 @@ I began maintaining this project in January 2024, and since then I've been dedic
 
 If you enjoy my work and want to support my contributions, please consider [supporting my work with your sponsoring](https://github.com/sponsors/DjordyKoert) 💕
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="djordykoert" data-color="#BD5FFF" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 <p align='center'>
     <a href="https://github.com/sponsors/DjordyKoert">
         <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
