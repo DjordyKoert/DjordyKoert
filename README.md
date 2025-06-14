@@ -28,8 +28,8 @@ If you enjoy my work and want to support my contributions, please consider [supp
     </a>
 </p>
 <p align='center'>
-    <a href="https://www.buymeacoffee.com/djordykoert" align='center'>
-        <img alt="Buy Me A Coffee" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=djordykoert&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+    <a href="https://ko-fi.com/P5P7SYBAJ" align='center'>
+        <img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
     </a>
 </p>
 
