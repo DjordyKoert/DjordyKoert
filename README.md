@@ -62,7 +62,6 @@ I run a hobby server in my free time, where I host various services.
 - [badges/shields](https://github.com/badges/shields) (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (7 months ago)
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
