@@ -68,8 +68,8 @@ I run a hobby server in my free time, where I host various services.
 - [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [fix(#2480): Tag ignored on subclasses when routes are inherited from abstract controller](https://github.com/nelmio/NelmioApiDocBundle/pull/2492) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [chore: Update README.md](https://github.com/nelmio/NelmioApiDocBundle/pull/2490) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [feat(#2485): Configure operationId generation method](https://github.com/nelmio/NelmioApiDocBundle/pull/2489) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 
 ## 📦 My recent release contributions
 
