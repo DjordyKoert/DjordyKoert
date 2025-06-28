@@ -58,23 +58,23 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [badges/shields](https://github.com/badges/shields) (3 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (8 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [feat(#2486): properly describe multiple file upload](https://github.com/nelmio/NelmioApiDocBundle/pull/2511) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [fix(#2509): fatal reflection error when controller class doesn&#39;t exist](https://github.com/nelmio/NelmioApiDocBundle/pull/2510) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [feat(#2486): properly describe multiple file upload](https://github.com/nelmio/NelmioApiDocBundle/pull/2511) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [fix(#2509): fatal reflection error when controller class doesn&#39;t exist](https://github.com/nelmio/NelmioApiDocBundle/pull/2510) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(#2480): Tag ignored on subclasses when routes are inherited from abstract controller](https://github.com/nelmio/NelmioApiDocBundle/pull/2492) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.4.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.4.0) (1 day ago)
-- [symfony/symfony **(v7.3.0)**](https://github.com/symfony/symfony/releases/tag/v7.3.0) (4 weeks ago)
+- [nelmio/NelmioApiDocBundle **(v5.4.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.4.0) (2 days ago)
+- [symfony/symfony **(v7.3.0)**](https://github.com/symfony/symfony/releases/tag/v7.3.0) (1 month ago)
 - [openapi-ts/openapi-typescript **(openapi-fetch@0.14.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.0) (1 month ago)
 
 ---
