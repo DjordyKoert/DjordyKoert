@@ -61,7 +61,7 @@ I run a hobby server in my free time, where I host various services.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (3 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
-- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (8 months ago)
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (9 months ago)
 
 ## 🔨 My recent Pull Requests
 
