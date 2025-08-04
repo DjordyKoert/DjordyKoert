@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [badges/shields](https://github.com/badges/shields) (4 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (9 months ago)
