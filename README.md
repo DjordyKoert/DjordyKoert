@@ -73,7 +73,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [openapi-ts/openapi-typescript **(openapi-metadata@0.2.2)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-metadata%400.2.2) (1 week ago)
+- [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (today)
 - [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (2 weeks ago)
 - [symfony/symfony **(v7.3.2)**](https://github.com/symfony/symfony/releases/tag/v7.3.2) (2 weeks ago)
 
