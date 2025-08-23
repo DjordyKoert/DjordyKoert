@@ -59,7 +59,7 @@ I run a hobby server in my free time, where I host various services.
 ## 🔭 Check out what I'm currently working on
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [badges/shields](https://github.com/badges/shields) (4 months ago)
+- [badges/shields](https://github.com/badges/shields) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (10 months ago)
 
@@ -73,7 +73,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (4 days ago)
+- [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (5 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (2 weeks ago)
 - [symfony/symfony **(v7.3.2)**](https://github.com/symfony/symfony/releases/tag/v7.3.2) (3 weeks ago)
 
