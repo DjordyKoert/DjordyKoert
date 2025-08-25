@@ -58,23 +58,23 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix(#2502): replace property-info type with type-info](https://github.com/nelmio/NelmioApiDocBundle/pull/2526) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [feat(#2486): properly describe multiple file upload](https://github.com/nelmio/NelmioApiDocBundle/pull/2511) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [fix(#2509): fatal reflection error when controller class doesn&#39;t exist](https://github.com/nelmio/NelmioApiDocBundle/pull/2510) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [fix(#2502): replace property-info type with type-info](https://github.com/nelmio/NelmioApiDocBundle/pull/2526) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [feat(#2486): properly describe multiple file upload](https://github.com/nelmio/NelmioApiDocBundle/pull/2511) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
+- [fix(#2509): fatal reflection error when controller class doesn&#39;t exist](https://github.com/nelmio/NelmioApiDocBundle/pull/2510) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [docs(#2223): update 4.x converter tool](https://github.com/nelmio/NelmioApiDocBundle/pull/2494) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 months ago)
 - [docs: add community projects](https://github.com/nelmio/NelmioApiDocBundle/pull/2493) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 months ago)
 
 ## 📦 My recent release contributions
 
-- [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (6 days ago)
-- [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (2 weeks ago)
+- [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (1 week ago)
+- [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (3 weeks ago)
 - [symfony/symfony **(v7.3.2)**](https://github.com/symfony/symfony/releases/tag/v7.3.2) (3 weeks ago)
 
 ---
