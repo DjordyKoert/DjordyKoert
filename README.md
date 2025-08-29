@@ -73,9 +73,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
+- [symfony/symfony **(v7.3.3)**](https://github.com/symfony/symfony/releases/tag/v7.3.3) (today)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (3 weeks ago)
-- [symfony/symfony **(v7.3.2)**](https://github.com/symfony/symfony/releases/tag/v7.3.2) (4 weeks ago)
 
 ---
 
