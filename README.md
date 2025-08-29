@@ -65,11 +65,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [chore: bootstrap releases for path: .](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/6) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
+- [ci: add deprecate &amp; dependency as commit type](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/4) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
+- [ci: test deprecations](https://github.com/nelmio/NelmioApiDocBundle/pull/2537) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: automated release](https://github.com/nelmio/NelmioApiDocBundle/pull/2535) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix: fix some weird bug](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/2) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
-- [ci: codecov yaml file](https://github.com/nelmio/NelmioApiDocBundle/pull/2534) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
-- [fix(#2502): replace property-info type with type-info](https://github.com/nelmio/NelmioApiDocBundle/pull/2526) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [feat(#2486): properly describe multiple file upload](https://github.com/nelmio/NelmioApiDocBundle/pull/2511) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 
 ## 📦 My recent release contributions
 
