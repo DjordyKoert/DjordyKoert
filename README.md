@@ -58,22 +58,22 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [badges/shields](https://github.com/badges/shields) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [chore: bootstrap releases for path: .](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/6) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (1 day ago)
-- [ci: add deprecate &amp; dependency as commit type](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/4) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (1 day ago)
-- [ci: test deprecations](https://github.com/nelmio/NelmioApiDocBundle/pull/2537) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [ci: automated release](https://github.com/nelmio/NelmioApiDocBundle/pull/2535) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [fix: fix some weird bug](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/2) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (1 day ago)
+- [chore: bootstrap releases for path: .](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/6) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (2 days ago)
+- [ci: add deprecate &amp; dependency as commit type](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/4) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (2 days ago)
+- [ci: test deprecations](https://github.com/nelmio/NelmioApiDocBundle/pull/2537) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [ci: automated release](https://github.com/nelmio/NelmioApiDocBundle/pull/2535) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [fix: fix some weird bug](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/2) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (2 days ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.3.3)**](https://github.com/symfony/symfony/releases/tag/v7.3.3) (1 day ago)
+- [symfony/symfony **(v7.3.3)**](https://github.com/symfony/symfony/releases/tag/v7.3.3) (2 days ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.5.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.5.0) (3 weeks ago)
 
