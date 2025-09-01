@@ -65,11 +65,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: prefix github-actions dependabot with &#39;ci:&#39;](https://github.com/nelmio/NelmioApiDocBundle/pull/2539) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore: bootstrap releases for path: .](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/6) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (3 days ago)
 - [ci: add deprecate &amp; dependency as commit type](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/4) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (3 days ago)
 - [ci: test deprecations](https://github.com/nelmio/NelmioApiDocBundle/pull/2537) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
-- [ci: automated release](https://github.com/nelmio/NelmioApiDocBundle/pull/2535) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 
 ## 📦 My recent release contributions
 
