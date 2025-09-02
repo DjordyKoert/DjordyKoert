@@ -58,18 +58,18 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [badges/shields](https://github.com/badges/shields) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
+- [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [feat(#2540): custom model name](https://github.com/nelmio/NelmioApiDocBundle/pull/2542) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [ci: prefix github-actions dependabot with &#39;ci:&#39;](https://github.com/nelmio/NelmioApiDocBundle/pull/2539) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [chore: bootstrap releases for path: .](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/6) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (4 days ago)
-- [ci: add deprecate &amp; dependency as commit type](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/4) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (4 days ago)
 
 ## 📦 My recent release contributions
 
