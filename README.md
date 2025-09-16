@@ -58,22 +58,22 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
 - [badges/shields](https://github.com/badges/shields) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (8 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
-- [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
+- [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [feat(Model): Allow customizing the name of generated schemas.](https://github.com/nelmio/NelmioApiDocBundle/pull/2542) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [ci: prefix github-actions dependabot with &#39;ci:&#39;](https://github.com/nelmio/NelmioApiDocBundle/pull/2539) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.6.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.1) (5 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.6.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.1) (6 days ago)
 - [symfony/symfony **(v7.3.3)**](https://github.com/symfony/symfony/releases/tag/v7.3.3) (2 weeks ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (4 weeks ago)
 
