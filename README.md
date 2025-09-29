@@ -67,13 +67,13 @@ I run a hobby server in my free time, where I host various services.
 
 - [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [feat(Model): Allow customizing the name of generated schemas.](https://github.com/nelmio/NelmioApiDocBundle/pull/2542) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [ci: prefix github-actions dependabot with &#39;ci:&#39;](https://github.com/nelmio/NelmioApiDocBundle/pull/2539) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [feat(Model): Allow customizing the name of generated schemas.](https://github.com/nelmio/NelmioApiDocBundle/pull/2542) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [ci: prefix github-actions dependabot with &#39;ci:&#39;](https://github.com/nelmio/NelmioApiDocBundle/pull/2539) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (1 day ago)
+- [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (2 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.6.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.2) (1 week ago)
 - [openapi-ts/openapi-typescript **(swr-openapi@5.4.0)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/swr-openapi%405.4.0) (1 month ago)
 
