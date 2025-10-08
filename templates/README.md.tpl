@@ -86,14 +86,7 @@ I run a hobby server in my free time, where I host various services.
 
 #### ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 {{range sponsors 5}}
-<p align="center">
-  <a href="{{.User.URL}}">
-    <img src="{{.User.AvatarURL}}" width="50px" alt="{{.User.Name}}" />
-    <br />
-    <b>{{.User.Name}}</b>
-  </a>
-  ({{humanize .CreatedAt}})
-</p>
+- [{{.User.Name}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ---
