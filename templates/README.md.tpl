@@ -84,6 +84,11 @@ I run a hobby server in my free time, where I host various services.
 - [{{.Name}} **({{.LastRelease.TagName}})**]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
+#### ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
+{{range sponsors 5}}
+- [{{.User.Name}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordyKoert&theme=holi&bg_color=00000000&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
