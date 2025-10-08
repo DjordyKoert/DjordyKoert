@@ -77,7 +77,7 @@ I run a hobby server in my free time, where I host various services.
 - [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.6.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.2) (2 weeks ago)
 
-#### ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
+## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
 - [Kevin Papst](https://github.com/kevinpapst) (4 months ago)
 
