@@ -88,10 +88,11 @@ I run a hobby server in my free time, where I host various services.
 {{range sponsors 5}}
 <p align="center">
   <a href="{{.User.URL}}">
-    <img src="{{.User.AvatarURL}}" width="20px" alt="{{.User.Name}}" />
+    <img src="{{.User.AvatarURL}}" width="50px" alt="{{.User.Name}}" />
     <br />
-    <b>{{.User.Name}}</b> ({{humanize .CreatedAt}})
+    <b>{{.User.Name}}</b>
   </a>
+  ({{humanize .CreatedAt}})
 </p>
 {{- end}}
 
