@@ -84,7 +84,7 @@ I run a hobby server in my free time, where I host various services.
 - [{{.Name}} **({{.LastRelease.TagName}})**]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
-#### ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
+## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 {{range sponsors 5}}
 - [{{.User.Name}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
