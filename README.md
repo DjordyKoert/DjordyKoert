@@ -58,14 +58,14 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [badges/shields](https://github.com/badges/shields) (6 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (8 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (11 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [feat(Model): Allow customizing the name of generated schemas.](https://github.com/nelmio/NelmioApiDocBundle/pull/2542) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [ci: test symfony 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2541) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
@@ -73,7 +73,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.6.3)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.3) (today)
+- [nelmio/NelmioApiDocBundle **(v5.6.3)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.3) (1 day ago)
 - [openapi-ts/openapi-typescript **(openapi-fetch@0.14.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-fetch%400.14.1) (1 week ago)
 - [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (1 week ago)
 
