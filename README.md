@@ -65,16 +65,16 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs: copilot-instructions](https://github.com/nelmio/NelmioApiDocBundle/pull/2570) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: schedule weekly ci run](https://github.com/nelmio/NelmioApiDocBundle/pull/2569) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(swagger-php): conflict with broken version 5.5.0](https://github.com/nelmio/NelmioApiDocBundle/pull/2568) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
-- [fix(config): migrate xml to php config](https://github.com/nelmio/NelmioApiDocBundle/pull/2566) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 
 ## 📦 My recent release contributions
 
+- [nelmio/NelmioApiDocBundle **(v5.6.4)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.4) (today)
 - [openapi-ts/openapi-typescript **(openapi-typescript@7.10.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.10.1) (2 days ago)
-- [nelmio/NelmioApiDocBundle **(v5.6.3)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.3) (1 week ago)
 - [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
