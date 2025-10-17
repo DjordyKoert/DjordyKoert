@@ -65,11 +65,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [docs: copilot-instructions](https://github.com/nelmio/NelmioApiDocBundle/pull/2570) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: schedule weekly ci run](https://github.com/nelmio/NelmioApiDocBundle/pull/2569) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(swagger-php): conflict with broken version 5.5.0](https://github.com/nelmio/NelmioApiDocBundle/pull/2568) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(config): migrate xml to php config](https://github.com/nelmio/NelmioApiDocBundle/pull/2566) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
-- [fix(ModelRegistry): ensure first registered alternative name is used](https://github.com/nelmio/NelmioApiDocBundle/pull/2553) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [refactor(command): use #[AsCommand] to describe command](https://github.com/nelmio/NelmioApiDocBundle/pull/2544) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
