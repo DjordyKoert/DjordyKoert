@@ -58,23 +58,23 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [badges/shields](https://github.com/badges/shields) (6 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (9 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (11 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [docs: copilot-instructions](https://github.com/nelmio/NelmioApiDocBundle/pull/2570) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [ci: schedule weekly ci run](https://github.com/nelmio/NelmioApiDocBundle/pull/2569) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [fix(swagger-php): conflict with broken version 5.5.0](https://github.com/nelmio/NelmioApiDocBundle/pull/2568) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [docs: copilot-instructions](https://github.com/nelmio/NelmioApiDocBundle/pull/2570) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [ci: schedule weekly ci run](https://github.com/nelmio/NelmioApiDocBundle/pull/2569) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [fix(swagger-php): conflict with broken version 5.5.0](https://github.com/nelmio/NelmioApiDocBundle/pull/2568) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.6.4)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.4) (1 day ago)
-- [openapi-ts/openapi-typescript **(openapi-typescript@7.10.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.10.1) (3 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.6.4)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.4) (2 days ago)
+- [openapi-ts/openapi-typescript **(openapi-typescript@7.10.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.10.1) (4 days ago)
 - [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (3 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
