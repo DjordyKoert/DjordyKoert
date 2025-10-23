@@ -58,22 +58,22 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (9 months ago)
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 days ago)
-- [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (2 days ago)
-- [fix: version number in triggered deprecation](https://github.com/nelmio/NelmioApiDocBundle/pull/2577) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
-- [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 days ago)
+- [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (3 days ago)
+- [fix: version number in triggered deprecation](https://github.com/nelmio/NelmioApiDocBundle/pull/2577) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
+- [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.6.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.5) (2 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.6.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.5) (3 days ago)
 - [openapi-ts/openapi-typescript **(openapi-typescript@7.10.1)**](https://github.com/openapi-ts/openapi-typescript/releases/tag/openapi-typescript%407.10.1) (1 week ago)
 - [symfony/symfony **(v7.3.4)**](https://github.com/symfony/symfony/releases/tag/v7.3.4) (3 weeks ago)
 
