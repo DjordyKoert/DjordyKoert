@@ -59,22 +59,22 @@ I run a hobby server in my free time, where I host various services.
 ## 🔭 Check out what I'm currently working on
 
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 week ago)
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (9 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 week ago)
-- [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (1 week ago)
-- [fix: version number in triggered deprecation](https://github.com/nelmio/NelmioApiDocBundle/pull/2577) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 weeks ago)
+- [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (2 weeks ago)
+- [fix: version number in triggered deprecation](https://github.com/nelmio/NelmioApiDocBundle/pull/2577) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [chore: PHPStan v2](https://github.com/nelmio/NelmioApiDocBundle/pull/2572) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [docs: Update language and tone section formatting](https://github.com/nelmio/NelmioApiDocBundle/pull/2571) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.0.0-BETA2)**](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2) (today)
-- [nelmio/NelmioApiDocBundle **(v5.6.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.5) (1 week ago)
+- [symfony/symfony **(v8.0.0-BETA2)**](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2) (1 day ago)
+- [nelmio/NelmioApiDocBundle **(v5.6.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.6.5) (2 weeks ago)
 - [googleapis/gax-php **(v1.38.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.0) (1 month ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
