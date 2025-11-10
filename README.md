@@ -59,6 +59,7 @@ I run a hobby server in my free time, where I host various services.
 ## 🔭 Check out what I'm currently working on
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) (today)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
@@ -74,6 +75,7 @@ I run a hobby server in my free time, where I host various services.
 ## 📦 My recent release contributions
 
 - [nelmio/NelmioApiDocBundle **(v5.7.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.7.0) (today)
+- [zircote/swagger-php **(5.6.0)**](https://github.com/zircote/swagger-php/releases/tag/5.6.0) (1 day ago)
 - [googleapis/gax-php **(v1.38.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.1) (4 days ago)
 - [symfony/symfony **(v7.3.6)**](https://github.com/symfony/symfony/releases/tag/v7.3.6) (4 days ago)
 
