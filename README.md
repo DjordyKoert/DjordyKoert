@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [ci(release-please): make it possible to create backport releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2593) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
-- [fix: Check for null before checking `method_exists` on reflector](https://github.com/zircote/swagger-php/pull/1833) on [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 days ago)
-- [fix: Check for null before checking `method_exists` on reflector](https://github.com/DerManoMann/swagger-php/pull/5) on [DerManoMann/swagger-php](https://github.com/DerManoMann/swagger-php) (2 days ago)
-- [fix: remove unused `TypesTrait`](https://github.com/nelmio/NelmioApiDocBundle/pull/2588) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 weeks ago)
+- [ci(backport): add backport action &amp; releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2594) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [fix: cleanup backport description &amp; title](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/16) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
+- [fix(backport): remove pr title check](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/14) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
+- [fix(release-please): remove `release-as`](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/13) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
+- [fix: TESTING backport (very cool simulated fix)](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/10) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
 
 ## 📦 My recent release contributions
 
