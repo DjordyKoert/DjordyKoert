@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 days ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci(release-please): make it possible to create backport releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2593) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix: Check for null before checking `method_exists` on reflector](https://github.com/zircote/swagger-php/pull/1833) on [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 days ago)
 - [fix: Check for null before checking `method_exists` on reflector](https://github.com/DerManoMann/swagger-php/pull/5) on [DerManoMann/swagger-php](https://github.com/DerManoMann/swagger-php) (2 days ago)
 - [fix: remove unused `TypesTrait`](https://github.com/nelmio/NelmioApiDocBundle/pull/2588) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 weeks ago)
-- [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
