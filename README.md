@@ -58,26 +58,26 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 days ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix: Check for null before checking `method_exists` on reflector](https://github.com/zircote/swagger-php/pull/1833) on [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 day ago)
-- [fix: Check for null before checking `method_exists` on reflector](https://github.com/DerManoMann/swagger-php/pull/5) on [DerManoMann/swagger-php](https://github.com/DerManoMann/swagger-php) (1 day ago)
-- [fix: remove unused `TypesTrait`](https://github.com/nelmio/NelmioApiDocBundle/pull/2588) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [fix: Check for null before checking `method_exists` on reflector](https://github.com/zircote/swagger-php/pull/1833) on [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 days ago)
+- [fix: Check for null before checking `method_exists` on reflector](https://github.com/DerManoMann/swagger-php/pull/5) on [DerManoMann/swagger-php](https://github.com/DerManoMann/swagger-php) (2 days ago)
+- [fix: remove unused `TypesTrait`](https://github.com/nelmio/NelmioApiDocBundle/pull/2588) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [fix: add return type to `offsetGet`](https://github.com/googleapis/gax-php/pull/633) on [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 weeks ago)
 - [fix: add return type to `offsetGet`](https://github.com/DjordyKoert/gax-php/pull/1) on [DjordyKoert/gax-php](https://github.com/DjordyKoert/gax-php) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(5.7.0)**](https://github.com/zircote/swagger-php/releases/tag/5.7.0) (today)
-- [nelmio/NelmioApiDocBundle **(v5.7.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.7.0) (1 day ago)
-- [googleapis/gax-php **(v1.38.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.1) (5 days ago)
-- [symfony/symfony **(v7.3.6)**](https://github.com/symfony/symfony/releases/tag/v7.3.6) (5 days ago)
+- [zircote/swagger-php **(5.7.0)**](https://github.com/zircote/swagger-php/releases/tag/5.7.0) (1 day ago)
+- [nelmio/NelmioApiDocBundle **(v5.7.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.7.0) (2 days ago)
+- [googleapis/gax-php **(v1.38.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.1) (6 days ago)
+- [symfony/symfony **(v7.3.6)**](https://github.com/symfony/symfony/releases/tag/v7.3.6) (6 days ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
