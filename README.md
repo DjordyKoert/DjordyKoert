@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix: swagger-php 5.7.0 compatatiblity](https://github.com/nelmio/NelmioApiDocBundle/pull/2598) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(backport): add backport action &amp; releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2594) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix: cleanup backport description &amp; title](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/16) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
 - [fix(backport): remove pr title check](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/14) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
 - [fix(release-please): remove `release-as`](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/13) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
-- [fix: TESTING backport (very cool simulated fix)](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/10) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (today)
 
 ## 📦 My recent release contributions
 
