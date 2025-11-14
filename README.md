@@ -66,7 +66,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deprecation): incorrect &amp; missing trigger_deprecation in `Model` class](https://github.com/nelmio/NelmioApiDocBundle/pull/2613) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [fix(trigger_deprecation): incorrect &amp; missing trigger_deprecation in `Model` class](https://github.com/nelmio/NelmioApiDocBundle/pull/2613) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(symfony): run on `7.4` and `8.0`](https://github.com/nelmio/NelmioApiDocBundle/pull/2612) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore(php): bump minimum to php 8.2](https://github.com/nelmio/NelmioApiDocBundle/pull/2611) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [refactor: add `symfony/type-info: ^7.2` dependency](https://github.com/nelmio/NelmioApiDocBundle/pull/2610) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
@@ -74,8 +74,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
+- [nelmio/NelmioApiDocBundle **(v5.8.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.8.0) (today)
 - [symfony/symfony **(v8.0.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1) (1 day ago)
-- [nelmio/NelmioApiDocBundle **(v4.38.4)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.38.4) (1 day ago)
 - [zircote/swagger-php **(5.7.0)**](https://github.com/zircote/swagger-php/releases/tag/5.7.0) (3 days ago)
 - [googleapis/gax-php **(v1.38.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.1) (1 week ago)
 
