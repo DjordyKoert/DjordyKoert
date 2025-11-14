@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [refactor: add `symfony/type-info: ^7.2` dependency](https://github.com/nelmio/NelmioApiDocBundle/pull/2610) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(composer): ignore symfony cve](https://github.com/nelmio/NelmioApiDocBundle/pull/2607) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(backport): fix backport PR not running workflow](https://github.com/nelmio/NelmioApiDocBundle/pull/2601) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [fix: swagger-php 5.7.0 compatatiblity](https://github.com/nelmio/NelmioApiDocBundle/pull/2598) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci(backport): add backport action &amp; releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2594) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [fix: cleanup backport description &amp; title](https://github.com/DjordyKoert/NelmioApiDocBundle/pull/16) on [DjordyKoert/NelmioApiDocBundle](https://github.com/DjordyKoert/NelmioApiDocBundle) (2 days ago)
 
 ## 📦 My recent release contributions
 
