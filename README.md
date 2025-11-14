@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(configuration): validate `type_info` option on Symfony 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2615) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(trigger_deprecation): incorrect &amp; missing trigger_deprecation in `Model` class](https://github.com/nelmio/NelmioApiDocBundle/pull/2613) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(symfony): run on `7.4` and `8.0`](https://github.com/nelmio/NelmioApiDocBundle/pull/2612) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore(php): bump minimum to php 8.2](https://github.com/nelmio/NelmioApiDocBundle/pull/2611) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
-- [refactor: add `symfony/type-info: ^7.2` dependency](https://github.com/nelmio/NelmioApiDocBundle/pull/2610) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 
 ## 📦 My recent release contributions
 
