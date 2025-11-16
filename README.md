@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (6 days ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (7 months ago)
@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [docs: fix docs](https://github.com/nelmio/NelmioApiDocBundle/pull/2619) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [fix(configuration): validate `type_info` option on Symfony 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2615) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [fix(trigger_deprecation): incorrect &amp; missing trigger_deprecation in `Model` class](https://github.com/nelmio/NelmioApiDocBundle/pull/2613) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci(symfony): run on `7.4` and `8.0`](https://github.com/nelmio/NelmioApiDocBundle/pull/2612) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
-- [chore(php): bump minimum to php 8.2](https://github.com/nelmio/NelmioApiDocBundle/pull/2611) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 
 ## 📦 My recent release contributions
 
