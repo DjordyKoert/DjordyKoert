@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 week ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (4 weeks ago)
 - [badges/shields](https://github.com/badges/shields) (8 months ago)
@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs: fix docs](https://github.com/nelmio/NelmioApiDocBundle/pull/2619) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
 - [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix(configuration): validate `type_info` option on Symfony 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2615) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [fix(trigger_deprecation): incorrect &amp; missing trigger_deprecation in `Model` class](https://github.com/nelmio/NelmioApiDocBundle/pull/2613) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [ci(symfony): run on `7.4` and `8.0`](https://github.com/nelmio/NelmioApiDocBundle/pull/2612) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 
 ## 📦 My recent release contributions
 
