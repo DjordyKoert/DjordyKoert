@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 weeks ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 month ago)
 - [badges/shields](https://github.com/badges/shields) (8 months ago)
@@ -66,17 +66,17 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
-- [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
+- [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
+- [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
 - [docs: fix docs](https://github.com/nelmio/NelmioApiDocBundle/pull/2619) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix(configuration): validate `type_info` option on Symfony 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2615) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(6.0.0-RC1)**](https://github.com/zircote/swagger-php/releases/tag/6.0.0-RC1) (today)
-- [symfony/symfony **(v8.0.0-RC3)**](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3) (3 days ago)
-- [googleapis/gax-php **(v1.38.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.2) (5 days ago)
+- [zircote/swagger-php **(6.0.0-RC1)**](https://github.com/zircote/swagger-php/releases/tag/6.0.0-RC1) (1 day ago)
+- [symfony/symfony **(v8.0.0-RC3)**](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3) (4 days ago)
+- [googleapis/gax-php **(v1.38.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.2) (6 days ago)
 - [nelmio/NelmioApiDocBundle **(v4.38.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.38.5) (1 week ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
