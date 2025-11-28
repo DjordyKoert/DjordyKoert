@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci(4.x): fix exclude matrix](https://github.com/nelmio/NelmioApiDocBundle/pull/2633) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [ci: improve matrix &amp; check for stable dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2632) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: run on Symfony `7.4`](https://github.com/nelmio/NelmioApiDocBundle/pull/2631) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [docs: fix docs](https://github.com/nelmio/NelmioApiDocBundle/pull/2619) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
