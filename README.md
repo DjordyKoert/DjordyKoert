@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 weeks ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 month ago)
 - [badges/shields](https://github.com/badges/shields) (8 months ago)
@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci: run on Symfony `7.4`](https://github.com/nelmio/NelmioApiDocBundle/pull/2631) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [docs: fix docs](https://github.com/nelmio/NelmioApiDocBundle/pull/2619) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [docs(customization): explain how to customize the various describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2618) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [fix(configuration): validate `type_info` option on Symfony 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2615) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
