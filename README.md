@@ -66,18 +66,18 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(SplObjectStorage): `SplObjectStorage::detach()` is deprecated since `8.5`, use method `SplObjectStorage::offsetUnset()` instead](https://github.com/nelmio/NelmioApiDocBundle/pull/2634) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(4.x): fix exclude matrix](https://github.com/nelmio/NelmioApiDocBundle/pull/2633) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: improve matrix &amp; check for stable dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2632) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: run on Symfony `7.4`](https://github.com/nelmio/NelmioApiDocBundle/pull/2631) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [docs(pr-template): remove mention of `CHANGELOG.md`](https://github.com/nelmio/NelmioApiDocBundle/pull/2622) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [ci(php): run on php 8.5](https://github.com/nelmio/NelmioApiDocBundle/pull/2621) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 
 ## 📦 My recent release contributions
 
+- [nelmio/NelmioApiDocBundle **(v4.38.6)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.38.6) (today)
 - [zircote/swagger-php **(5.7.4)**](https://github.com/zircote/swagger-php/releases/tag/5.7.4) (1 day ago)
 - [symfony/symfony **(v7.4.0)**](https://github.com/symfony/symfony/releases/tag/v7.4.0) (1 day ago)
 - [googleapis/gax-php **(v1.38.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.38.2) (1 week ago)
-- [nelmio/NelmioApiDocBundle **(v4.38.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.38.5) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
