@@ -59,10 +59,10 @@ I run a hobby server in my free time, where I host various services.
 ## 🔭 Check out what I'm currently working on
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (3 weeks ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 month ago)
 - [badges/shields](https://github.com/badges/shields) (8 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
