@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [test: remove unused dev-dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2644) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [[JsonStreamer] fix invalid json output for list of self](https://github.com/symfony/symfony/pull/62622) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [fix(SplObjectStorage): `SplObjectStorage::detach()` is deprecated since `8.5`, use method `SplObjectStorage::offsetUnset()` instead](https://github.com/nelmio/NelmioApiDocBundle/pull/2634) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [ci(4.x): fix exclude matrix](https://github.com/nelmio/NelmioApiDocBundle/pull/2633) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 
 ## 📦 My recent release contributions
 
