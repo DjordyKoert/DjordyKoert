@@ -66,15 +66,15 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 - [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [test: remove unused dev-dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2644) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [[JsonStreamer] fix invalid json output for list of self](https://github.com/symfony/symfony/pull/62622) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.0.2)**](https://github.com/symfony/symfony/releases/tag/v8.0.2) (5 days ago)
+- [symfony/symfony **(v8.0.2)**](https://github.com/symfony/symfony/releases/tag/v8.0.2) (6 days ago)
 - [googleapis/gax-php **(v1.40.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.40.0) (1 week ago)
 - [zircote/swagger-php **(5.7.6)**](https://github.com/zircote/swagger-php/releases/tag/5.7.6) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v4.38.6)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.38.6) (2 weeks ago)
