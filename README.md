@@ -59,18 +59,18 @@ I run a hobby server in my free time, where I host various services.
 ## 🔭 Check out what I'm currently working on
 
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 month ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (1 month ago)
 - [badges/shields](https://github.com/badges/shields) (8 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
+- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
 - [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [test: remove unused dev-dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2644) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [[JsonStreamer] fix invalid json output for list of self](https://github.com/symfony/symfony/pull/62622) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[JsonStreamer] fix invalid json output for list of self](https://github.com/symfony/symfony/pull/62622) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
