@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix: Remove plugins directory before linking](https://github.com/pelican-dev/panel/pull/2021) on [pelican-dev/panel](https://github.com/pelican-dev/panel) (today)
 - [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [test: remove unused dev-dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2644) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [[JsonStreamer] fix invalid json output for list of self](https://github.com/symfony/symfony/pull/62622) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
