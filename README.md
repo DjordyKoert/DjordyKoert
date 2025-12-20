@@ -81,7 +81,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
-- [Kevin Papst](https://github.com/kevinpapst) (6 months ago)
+- [Kevin Papst](https://github.com/kevinpapst) (7 months ago)
 
 ---
 
