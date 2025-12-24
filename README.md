@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 month ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 months ago)
