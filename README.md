@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore(phpdocumentor): bump support for reflection-docblock &amp; type-resolver](https://github.com/nelmio/NelmioApiDocBundle/pull/2666) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix: Remove plugins directory before linking](https://github.com/pelican-dev/panel/pull/2021) on [pelican-dev/panel](https://github.com/pelican-dev/panel) (2 weeks ago)
 - [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
-- [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
