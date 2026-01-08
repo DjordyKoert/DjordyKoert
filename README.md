@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 month ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (2 months ago)
@@ -67,15 +67,15 @@ I run a hobby server in my free time, where I host various services.
 ## 🔨 My recent Pull Requests
 
 - [fix: Remove plugins directory before linking](https://github.com/pelican-dev/panel/pull/2021) on [pelican-dev/panel](https://github.com/pelican-dev/panel) (2 weeks ago)
-- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
+- [test(type-info): fix CI ](https://github.com/nelmio/NelmioApiDocBundle/pull/2649) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 - [ci: test optional dependencies separately](https://github.com/nelmio/NelmioApiDocBundle/pull/2645) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [test: remove unused dev-dependencies](https://github.com/nelmio/NelmioApiDocBundle/pull/2644) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.9.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.0) (5 days ago)
-- [zircote/swagger-php **(5.7.7)**](https://github.com/zircote/swagger-php/releases/tag/5.7.7) (5 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.9.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.0) (6 days ago)
+- [zircote/swagger-php **(5.7.7)**](https://github.com/zircote/swagger-php/releases/tag/5.7.7) (6 days ago)
 - [symfony/symfony **(v8.0.3)**](https://github.com/symfony/symfony/releases/tag/v8.0.3) (1 week ago)
 - [googleapis/gax-php **(v1.40.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.40.0) (1 month ago)
 
