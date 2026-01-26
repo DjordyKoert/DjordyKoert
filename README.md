@@ -66,7 +66,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 - [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [chore(phpdocumentor): bump support for reflection-docblock &amp; type-resolver](https://github.com/nelmio/NelmioApiDocBundle/pull/2666) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [fix: Remove plugins directory before linking](https://github.com/pelican-dev/panel/pull/2021) on [pelican-dev/panel](https://github.com/pelican-dev/panel) (1 month ago)
@@ -74,9 +74,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.0.4)**](https://github.com/symfony/symfony/releases/tag/v8.0.4) (today)
-- [zircote/swagger-php **(6.0.3)**](https://github.com/zircote/swagger-php/releases/tag/6.0.3) (2 days ago)
-- [googleapis/gax-php **(v1.42.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.0) (3 days ago)
+- [symfony/symfony **(v8.0.4)**](https://github.com/symfony/symfony/releases/tag/v8.0.4) (1 day ago)
+- [zircote/swagger-php **(6.0.3)**](https://github.com/zircote/swagger-php/releases/tag/6.0.3) (3 days ago)
+- [googleapis/gax-php **(v1.42.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.0) (4 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.9.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.2) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
