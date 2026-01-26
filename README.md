@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (today)
 - [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 days ago)
 - [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [chore(phpdocumentor): bump support for reflection-docblock &amp; type-resolver](https://github.com/nelmio/NelmioApiDocBundle/pull/2666) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [fix: Remove plugins directory before linking](https://github.com/pelican-dev/panel/pull/2021) on [pelican-dev/panel](https://github.com/pelican-dev/panel) (1 month ago)
-- [[TypeInfo] Fix template key-type for array](https://github.com/symfony/symfony/pull/62738) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 ## 📦 My recent release contributions
 
