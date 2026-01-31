@@ -58,26 +58,26 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (2 months ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (3 months ago)
 - [badges/shields](https://github.com/badges/shields) (10 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [ci: ignore warnings from api-platform update](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
-- [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (4 days ago)
+- [ci: ignore warnings from api-platform update](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 - [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [chore(phpdocumentor): bump support for reflection-docblock &amp; type-resolver](https://github.com/nelmio/NelmioApiDocBundle/pull/2666) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v4.2.15)**](https://github.com/api-platform/core/releases/tag/v4.2.15) (today)
-- [zircote/swagger-php **(5.8.0)**](https://github.com/zircote/swagger-php/releases/tag/5.8.0) (2 days ago)
-- [symfony/symfony **(v8.0.5)**](https://github.com/symfony/symfony/releases/tag/v8.0.5) (2 days ago)
+- [api-platform/core **(v4.2.15)**](https://github.com/api-platform/core/releases/tag/v4.2.15) (1 day ago)
+- [zircote/swagger-php **(5.8.0)**](https://github.com/zircote/swagger-php/releases/tag/5.8.0) (3 days ago)
+- [symfony/symfony **(v8.0.5)**](https://github.com/symfony/symfony/releases/tag/v8.0.5) (3 days ago)
 - [googleapis/gax-php **(v1.42.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.0) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.9.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.2) (3 weeks ago)
 
