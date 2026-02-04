@@ -67,11 +67,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
 - [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [chore(phpdocumentor): bump support for reflection-docblock &amp; type-resolver](https://github.com/nelmio/NelmioApiDocBundle/pull/2666) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
