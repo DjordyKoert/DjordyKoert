@@ -67,7 +67,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 - [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (1 month ago)
 - [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
@@ -75,9 +75,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v4.3.0-beta.1)**](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1) (today)
-- [zircote/swagger-php **(5.8.3)**](https://github.com/zircote/swagger-php/releases/tag/5.8.3) (1 day ago)
-- [symfony/symfony **(v8.0.6)**](https://github.com/symfony/symfony/releases/tag/v8.0.6) (5 days ago)
+- [api-platform/core **(v4.3.0-beta.1)**](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1) (1 day ago)
+- [zircote/swagger-php **(5.8.3)**](https://github.com/zircote/swagger-php/releases/tag/5.8.3) (2 days ago)
+- [symfony/symfony **(v8.0.6)**](https://github.com/symfony/symfony/releases/tag/v8.0.6) (6 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.9.4)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.4) (1 week ago)
 - [googleapis/gax-php **(v1.42.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.0) (1 month ago)
 
