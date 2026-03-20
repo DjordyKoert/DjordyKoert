@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [api-platform/core](https://github.com/api-platform/core) (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (4 months ago)
@@ -67,11 +67,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (1 month ago)
-- [fix: serializer extractor logic ](https://github.com/nelmio/NelmioApiDocBundle/pull/2680) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [fix(config): set `type_info` default correctly in Symfony 8](https://github.com/nelmio/NelmioApiDocBundle/pull/2670) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 
 ## 📦 My recent release contributions
 
