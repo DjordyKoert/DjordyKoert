@@ -63,7 +63,6 @@ I run a hobby server in my free time, where I host various services.
 - [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (4 months ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (5 months ago)
-- [badges/shields](https://github.com/badges/shields) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
