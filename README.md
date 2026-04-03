@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (4 months ago)
@@ -66,18 +66,18 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 - [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.0.8)**](https://github.com/symfony/symfony/releases/tag/v8.0.8) (2 days ago)
-- [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (4 days ago)
+- [symfony/symfony **(v8.0.8)**](https://github.com/symfony/symfony/releases/tag/v8.0.8) (3 days ago)
+- [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (5 days ago)
 - [googleapis/gax-php **(v1.42.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.1) (3 weeks ago)
-- [nelmio/NelmioApiDocBundle **(v5.9.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.5) (4 weeks ago)
+- [nelmio/NelmioApiDocBundle **(v5.9.5)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.9.5) (1 month ago)
 - [zircote/swagger-php **(5.8.3)**](https://github.com/zircote/swagger-php/releases/tag/5.8.3) (1 month ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
