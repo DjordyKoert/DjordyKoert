@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
-- [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 
 ## 📦 My recent release contributions
 
