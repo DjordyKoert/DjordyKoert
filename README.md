@@ -58,23 +58,23 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) (2 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (5 months ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (5 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
-- [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [fix(composer): conflict for symfony/property-info versions](https://github.com/nelmio/NelmioApiDocBundle/pull/2685) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [ci: fix phpstan &amp; code-style](https://github.com/nelmio/NelmioApiDocBundle/pull/2681) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [fix: Change payload type from array to free-form object in schema](https://github.com/api-platform/core/pull/7694) on [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(6.1.0)**](https://github.com/zircote/swagger-php/releases/tag/6.1.0) (today)
+- [zircote/swagger-php **(6.1.0)**](https://github.com/zircote/swagger-php/releases/tag/6.1.0) (1 day ago)
 - [symfony/symfony **(v8.0.8)**](https://github.com/symfony/symfony/releases/tag/v8.0.8) (1 week ago)
 - [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (1 week ago)
 - [googleapis/gax-php **(v1.42.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.1) (4 weeks ago)
