@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (5 months ago)
@@ -66,19 +66,19 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
-- [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
+- [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci(codestyle): fix test codestyle](https://github.com/nelmio/NelmioApiDocBundle/pull/2710) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [chore: add support for zircote/swagger-php 6](https://github.com/nelmio/NelmioApiDocBundle/pull/2709) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [googleapis/gax-php **(v1.42.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.2) (1 day ago)
-- [nelmio/NelmioApiDocBundle **(v5.10.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.0) (1 day ago)
-- [zircote/swagger-php **(6.1.0)**](https://github.com/zircote/swagger-php/releases/tag/6.1.0) (2 days ago)
+- [googleapis/gax-php **(v1.42.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.2) (2 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.10.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.0) (2 days ago)
+- [zircote/swagger-php **(6.1.0)**](https://github.com/zircote/swagger-php/releases/tag/6.1.0) (3 days ago)
 - [symfony/symfony **(v8.0.8)**](https://github.com/symfony/symfony/releases/tag/v8.0.8) (1 week ago)
-- [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (1 week ago)
+- [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
