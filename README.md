@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
 - [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (5 months ago)
@@ -66,8 +66,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
-- [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
+- [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
 - [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
