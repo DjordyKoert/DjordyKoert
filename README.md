@@ -68,15 +68,15 @@ I run a hobby server in my free time, where I host various services.
 
 - [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
+- [chore(ui): update scalar &amp; stoplight files](https://github.com/nelmio/NelmioApiDocBundle/pull/2719) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(6.1.1)**](https://github.com/zircote/swagger-php/releases/tag/6.1.1) (4 days ago)
-- [googleapis/gax-php **(v1.42.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.2) (1 week ago)
-- [nelmio/NelmioApiDocBundle **(v5.10.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.0) (1 week ago)
+- [zircote/swagger-php **(6.1.1)**](https://github.com/zircote/swagger-php/releases/tag/6.1.1) (5 days ago)
+- [googleapis/gax-php **(v1.42.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.2) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle **(v5.10.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.0) (2 weeks ago)
 - [symfony/symfony **(v8.0.8)**](https://github.com/symfony/symfony/releases/tag/v8.0.8) (3 weeks ago)
 - [api-platform/core **(v4.3.3)**](https://github.com/api-platform/core/releases/tag/v4.3.3) (3 weeks ago)
 
