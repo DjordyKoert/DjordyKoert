@@ -58,24 +58,24 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) (3 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (6 months ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (6 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix(config): root vendor extensions get ignored](https://github.com/nelmio/NelmioApiDocBundle/pull/2739) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [fix(config): root vendor extensions get ignored](https://github.com/nelmio/NelmioApiDocBundle/pull/2739) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 days ago)
 - [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
-- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.10.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.2) (1 day ago)
-- [symfony/symfony **(v8.1.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1) (3 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.10.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.2) (2 days ago)
+- [symfony/symfony **(v8.1.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1) (4 days ago)
 - [googleapis/gax-php **(v1.42.3)**](https://github.com/googleapis/gax-php/releases/tag/v1.42.3) (1 week ago)
 - [api-platform/core **(v4.3.4)**](https://github.com/api-platform/core/releases/tag/v4.3.4) (1 week ago)
 - [zircote/swagger-php **(6.1.2)**](https://github.com/zircote/swagger-php/releases/tag/6.1.2) (1 week ago)
