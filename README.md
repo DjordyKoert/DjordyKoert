@@ -67,17 +67,17 @@ I run a hobby server in my free time, where I host various services.
 ## 🔨 My recent Pull Requests
 
 - [fix(config): root vendor extensions get ignored](https://github.com/nelmio/NelmioApiDocBundle/pull/2739) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
+- [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [fix(phpstan): apply phpstan fixes](https://github.com/nelmio/NelmioApiDocBundle/pull/2721) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [docs(routing): PHP config &amp; scalar UI](https://github.com/nelmio/NelmioApiDocBundle/pull/2720) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 
 ## 📦 My recent release contributions
 
-- [googleapis/gax-php **(v1.43.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.43.1) (2 days ago)
-- [api-platform/core **(v4.3.10)**](https://github.com/api-platform/core/releases/tag/v4.3.10) (6 days ago)
+- [googleapis/gax-php **(v1.43.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.43.1) (3 days ago)
+- [api-platform/core **(v4.3.10)**](https://github.com/api-platform/core/releases/tag/v4.3.10) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.10.3)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.3) (1 week ago)
-- [symfony/symfony **(v8.1.0)**](https://github.com/symfony/symfony/releases/tag/v8.1.0) (1 week ago)
+- [symfony/symfony **(v8.1.0)**](https://github.com/symfony/symfony/releases/tag/v8.1.0) (2 weeks ago)
 - [zircote/swagger-php **(6.1.2)**](https://github.com/zircote/swagger-php/releases/tag/6.1.2) (1 month ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
