@@ -61,7 +61,7 @@ I run a hobby server in my free time, where I host various services.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) (7 months ago)
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) (8 months ago)
 - [googleapis/gax-php](https://github.com/googleapis/gax-php) (8 months ago)
 
 ## 🔨 My recent Pull Requests
@@ -74,8 +74,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(6.3.1)**](https://github.com/zircote/swagger-php/releases/tag/6.3.1) (1 day ago)
-- [api-platform/core **(v4.3.16)**](https://github.com/api-platform/core/releases/tag/v4.3.16) (4 days ago)
+- [zircote/swagger-php **(6.3.1)**](https://github.com/zircote/swagger-php/releases/tag/6.3.1) (2 days ago)
+- [api-platform/core **(v4.3.16)**](https://github.com/api-platform/core/releases/tag/v4.3.16) (5 days ago)
 - [symfony/symfony **(v8.1.1)**](https://github.com/symfony/symfony/releases/tag/v8.1.1) (1 week ago)
 - [googleapis/gax-php **(v1.43.2)**](https://github.com/googleapis/gax-php/releases/tag/v1.43.2) (2 weeks ago)
 - [nelmio/NelmioApiDocBundle **(v5.10.3)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.10.3) (1 month ago)
