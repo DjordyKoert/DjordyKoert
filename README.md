@@ -62,7 +62,7 @@ I run a hobby server in my free time, where I host various services.
 - [api-platform/core](https://github.com/api-platform/core) (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (8 months ago)
-- [googleapis/gax-php](https://github.com/googleapis/gax-php) (8 months ago)
+- [googleapis/gax-php](https://github.com/googleapis/gax-php) (9 months ago)
 
 ## 🔨 My recent Pull Requests
 
@@ -74,7 +74,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [googleapis/gax-php **(v1.45.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.45.0) (3 days ago)
+- [googleapis/gax-php **(v1.45.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.45.0) (4 days ago)
 - [api-platform/core **(v5.0.0-alpha.2)**](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2) (1 week ago)
 - [zircote/swagger-php **(6.4.0)**](https://github.com/zircote/swagger-php/releases/tag/6.4.0) (1 week ago)
 - [symfony/symfony **(v8.1.1)**](https://github.com/symfony/symfony/releases/tag/v8.1.1) (3 weeks ago)
