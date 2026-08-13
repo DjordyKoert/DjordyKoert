@@ -74,10 +74,10 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [nelmio/NelmioApiDocBundle **(v5.11.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.11.1) (today)
-- [zircote/swagger-php **(6.5.3)**](https://github.com/zircote/swagger-php/releases/tag/6.5.3) (today)
-- [googleapis/gax-php **(v1.47.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.47.1) (2 days ago)
-- [symfony/symfony **(v8.1.4)**](https://github.com/symfony/symfony/releases/tag/v8.1.4) (5 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.11.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.11.1) (1 day ago)
+- [zircote/swagger-php **(6.5.3)**](https://github.com/zircote/swagger-php/releases/tag/6.5.3) (1 day ago)
+- [googleapis/gax-php **(v1.47.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.47.1) (3 days ago)
+- [symfony/symfony **(v8.1.4)**](https://github.com/symfony/symfony/releases/tag/v8.1.4) (6 days ago)
 - [api-platform/core **(v5.0.0-alpha.2)**](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2) (1 month ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
