@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (8 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (9 months ago)
@@ -66,18 +66,18 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deps): require zircote/swagger-php &gt;= 5.7.8 for the query method](https://github.com/nelmio/NelmioApiDocBundle/pull/2782) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
-- [feat(deps): drop unmaintained Symfony 7.2 &amp; 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2781) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
+- [fix(deps): require zircote/swagger-php &gt;= 5.7.8 for the query method](https://github.com/nelmio/NelmioApiDocBundle/pull/2782) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [feat(deps): drop unmaintained Symfony 7.2 &amp; 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2781) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(config): root vendor extensions get ignored](https://github.com/nelmio/NelmioApiDocBundle/pull/2739) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 months ago)
 - [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 months ago)
 - [style: PHP CS Fixer](https://github.com/nelmio/NelmioApiDocBundle/pull/2725) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 months ago)
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.1.6)**](https://github.com/symfony/symfony/releases/tag/v8.1.6) (2 days ago)
-- [zircote/swagger-php **(6.7.1)**](https://github.com/zircote/swagger-php/releases/tag/6.7.1) (2 days ago)
+- [symfony/symfony **(v8.1.6)**](https://github.com/symfony/symfony/releases/tag/v8.1.6) (3 days ago)
+- [zircote/swagger-php **(6.7.1)**](https://github.com/zircote/swagger-php/releases/tag/6.7.1) (3 days ago)
 - [googleapis/gax-php **(v1.49.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.49.0) (1 week ago)
-- [nelmio/NelmioApiDocBundle **(v5.11.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.11.1) (2 weeks ago)
+- [nelmio/NelmioApiDocBundle **(v5.11.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.11.1) (3 weeks ago)
 - [api-platform/core **(v5.0.0-alpha.2)**](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2) (1 month ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
