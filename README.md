@@ -66,15 +66,15 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [feat(type-describer): add stoppable type describer support](https://github.com/nelmio/NelmioApiDocBundle/pull/2793) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [fix(deps): require zircote/swagger-php &gt;= 5.7.8 for the query method](https://github.com/nelmio/NelmioApiDocBundle/pull/2782) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [feat(deps): drop unmaintained Symfony 7.2 &amp; 7.3](https://github.com/nelmio/NelmioApiDocBundle/pull/2781) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [fix(config): root vendor extensions get ignored](https://github.com/nelmio/NelmioApiDocBundle/pull/2739) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 months ago)
-- [ci(ui): file generation on node 22](https://github.com/nelmio/NelmioApiDocBundle/pull/2726) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 months ago)
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v4.3.18)**](https://github.com/api-platform/core/releases/tag/v4.3.18) (today)
+- [api-platform/core **(v5.0.0-alpha.3)**](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3) (today)
 - [nelmio/NelmioApiDocBundle **(v5.12.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.12.0) (1 day ago)
 - [symfony/symfony **(v8.1.6)**](https://github.com/symfony/symfony/releases/tag/v8.1.6) (5 days ago)
 - [zircote/swagger-php **(6.7.1)**](https://github.com/zircote/swagger-php/releases/tag/6.7.1) (5 days ago)
