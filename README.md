@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [api-platform/core](https://github.com/api-platform/core) (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (9 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (10 months ago)
@@ -66,11 +66,11 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔨 My recent Pull Requests
 
+- [ci(ui): pnpm &amp; verify generated UI files](https://github.com/nelmio/NelmioApiDocBundle/pull/2802) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
+- [feat: support Symfony&#39;s `#[Serialize]` attribute](https://github.com/nelmio/NelmioApiDocBundle/pull/2801) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (today)
 - [fix(model-registry): reserve generated schema names against nested registrations](https://github.com/nelmio/NelmioApiDocBundle/pull/2800) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [ci(dependabot): fix missing commit prefix for releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2797) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 day ago)
 - [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 days ago)
-- [feat(type-describer): add stoppable type describer support](https://github.com/nelmio/NelmioApiDocBundle/pull/2793) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
-- [fix(deps): require zircote/swagger-php &gt;= 5.7.8 for the query method](https://github.com/nelmio/NelmioApiDocBundle/pull/2782) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 
 ## 📦 My recent release contributions
 
