@@ -74,9 +74,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
+- [api-platform/core **(v5.0.0-beta.1)**](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1) (today)
 - [zircote/swagger-php **(6.8.1)**](https://github.com/zircote/swagger-php/releases/tag/6.8.1) (3 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.12.1)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.12.1) (5 days ago)
-- [api-platform/core **(v5.0.0-alpha.3)**](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3) (1 week ago)
 - [symfony/symfony **(v8.1.6)**](https://github.com/symfony/symfony/releases/tag/v8.1.6) (1 week ago)
 - [googleapis/gax-php **(v1.49.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.49.0) (2 weeks ago)
 
