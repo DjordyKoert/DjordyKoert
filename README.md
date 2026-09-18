@@ -70,15 +70,15 @@ I run a hobby server in my free time, where I host various services.
 - [feat: support Symfony&#39;s `#[Serialize]` attribute](https://github.com/nelmio/NelmioApiDocBundle/pull/2801) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [fix(model-registry): reserve generated schema names against nested registrations](https://github.com/nelmio/NelmioApiDocBundle/pull/2800) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [ci(dependabot): fix missing commit prefix for releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2797) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
-- [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
+- [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v5.0.0)**](https://github.com/api-platform/core/releases/tag/v5.0.0) (today)
-- [symfony/symfony **(v8.1.7)**](https://github.com/symfony/symfony/releases/tag/v8.1.7) (2 days ago)
-- [googleapis/gax-php **(v1.49.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.49.1) (3 days ago)
-- [nelmio/NelmioApiDocBundle **(v5.12.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.12.2) (3 days ago)
-- [zircote/swagger-php **(6.9.0)**](https://github.com/zircote/swagger-php/releases/tag/6.9.0) (4 days ago)
+- [api-platform/core **(v5.0.0)**](https://github.com/api-platform/core/releases/tag/v5.0.0) (1 day ago)
+- [symfony/symfony **(v8.1.7)**](https://github.com/symfony/symfony/releases/tag/v8.1.7) (3 days ago)
+- [googleapis/gax-php **(v1.49.1)**](https://github.com/googleapis/gax-php/releases/tag/v1.49.1) (4 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.12.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.12.2) (4 days ago)
+- [zircote/swagger-php **(6.9.0)**](https://github.com/zircote/swagger-php/releases/tag/6.9.0) (5 days ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
