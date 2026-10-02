@@ -70,14 +70,14 @@ I run a hobby server in my free time, where I host various services.
 - [feat: support Symfony&#39;s `#[Serialize]` attribute](https://github.com/nelmio/NelmioApiDocBundle/pull/2801) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [fix(model-registry): reserve generated schema names against nested registrations](https://github.com/nelmio/NelmioApiDocBundle/pull/2800) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
 - [ci(dependabot): fix missing commit prefix for releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2797) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
-- [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v4.3.21)**](https://github.com/api-platform/core/releases/tag/v4.3.21) (2 days ago)
-- [symfony/symfony **(v8.1.8)**](https://github.com/symfony/symfony/releases/tag/v8.1.8) (2 days ago)
-- [googleapis/gax-php **(v1.51.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.51.0) (3 days ago)
-- [zircote/swagger-php **(6.11.0)**](https://github.com/zircote/swagger-php/releases/tag/6.11.0) (5 days ago)
+- [api-platform/core **(v4.3.21)**](https://github.com/api-platform/core/releases/tag/v4.3.21) (3 days ago)
+- [symfony/symfony **(v8.1.8)**](https://github.com/symfony/symfony/releases/tag/v8.1.8) (3 days ago)
+- [googleapis/gax-php **(v1.51.0)**](https://github.com/googleapis/gax-php/releases/tag/v1.51.0) (4 days ago)
+- [zircote/swagger-php **(6.11.0)**](https://github.com/zircote/swagger-php/releases/tag/6.11.0) (6 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.12.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.12.2) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
