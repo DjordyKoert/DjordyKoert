@@ -58,10 +58,10 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (5 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
 - [api-platform/core](https://github.com/api-platform/core) (9 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) (11 months ago)
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
@@ -73,9 +73,9 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (today)
-- [zircote/swagger-php **(6.20.2)**](https://github.com/zircote/swagger-php/releases/tag/6.20.2) (1 day ago)
-- [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (5 days ago)
+- [zircote/swagger-php **(7.2.0)**](https://github.com/zircote/swagger-php/releases/tag/7.2.0) (1 day ago)
+- [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (1 day ago)
+- [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (6 days ago)
 - [api-platform/core **(v5.0.5)**](https://github.com/api-platform/core/releases/tag/v5.0.5) (1 week ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
