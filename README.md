@@ -58,25 +58,25 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (6 days ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) (9 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (11 months ago)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) (1 year ago)
 
 ## 🔨 My recent Pull Requests
 
 - [ci(ui): pnpm &amp; verify generated UI files](https://github.com/nelmio/NelmioApiDocBundle/pull/2802) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
 - [feat: support Symfony&#39;s `#[Serialize]` attribute](https://github.com/nelmio/NelmioApiDocBundle/pull/2801) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [fix(model-registry): reserve generated schema names against nested registrations](https://github.com/nelmio/NelmioApiDocBundle/pull/2800) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
-- [ci(dependabot): fix missing commit prefix for releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2797) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (1 month ago)
+- [fix(model-registry): reserve generated schema names against nested registrations](https://github.com/nelmio/NelmioApiDocBundle/pull/2800) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
+- [ci(dependabot): fix missing commit prefix for releases](https://github.com/nelmio/NelmioApiDocBundle/pull/2797) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 - [refactor(type-describer): extract uid, date-time and translatable describers](https://github.com/nelmio/NelmioApiDocBundle/pull/2794) on [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (2 months ago)
 
 ## 📦 My recent release contributions
 
-- [zircote/swagger-php **(7.2.0)**](https://github.com/zircote/swagger-php/releases/tag/7.2.0) (1 day ago)
-- [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (1 day ago)
-- [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (6 days ago)
-- [api-platform/core **(v5.0.5)**](https://github.com/api-platform/core/releases/tag/v5.0.5) (1 week ago)
+- [zircote/swagger-php **(7.3.0)**](https://github.com/zircote/swagger-php/releases/tag/7.3.0) (1 day ago)
+- [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (2 days ago)
+- [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (1 week ago)
+- [api-platform/core **(v5.0.5)**](https://github.com/api-platform/core/releases/tag/v5.0.5) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
