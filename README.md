@@ -73,10 +73,10 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
+- [api-platform/core **(v5.0.6)**](https://github.com/api-platform/core/releases/tag/v5.0.6) (today)
 - [zircote/swagger-php **(7.3.0)**](https://github.com/zircote/swagger-php/releases/tag/7.3.0) (1 day ago)
 - [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (2 days ago)
 - [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (1 week ago)
-- [api-platform/core **(v5.0.5)**](https://github.com/api-platform/core/releases/tag/v5.0.5) (2 weeks ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
 
