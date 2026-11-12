@@ -73,7 +73,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [api-platform/core **(v5.0.6)**](https://github.com/api-platform/core/releases/tag/v5.0.6) (5 days ago)
+- [api-platform/core **(v5.0.6)**](https://github.com/api-platform/core/releases/tag/v5.0.6) (6 days ago)
 - [symfony/symfony **(v8.2.0-BETA1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.13.2)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.13.2) (1 week ago)
 
