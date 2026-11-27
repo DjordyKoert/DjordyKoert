@@ -58,7 +58,7 @@ I run a hobby server in my free time, where I host various services.
 
 ## 🔭 Check out what I'm currently working on
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (3 weeks ago)
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) (4 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) (10 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (11 months ago)
 
@@ -72,8 +72,8 @@ I run a hobby server in my free time, where I host various services.
 
 ## 📦 My recent release contributions
 
-- [symfony/symfony **(v8.2.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1) (1 day ago)
-- [api-platform/core **(v5.0.9)**](https://github.com/api-platform/core/releases/tag/v5.0.9) (6 days ago)
+- [symfony/symfony **(v8.2.0-RC1)**](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1) (2 days ago)
+- [api-platform/core **(v5.0.9)**](https://github.com/api-platform/core/releases/tag/v5.0.9) (1 week ago)
 - [nelmio/NelmioApiDocBundle **(v5.14.0)**](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v5.14.0) (1 week ago)
 
 ## ❤️ These amazing people [sponsor me](https://github.com/sponsors/DjordyKoert) (thank you!!!)
